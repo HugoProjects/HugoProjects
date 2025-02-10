@@ -20,20 +20,33 @@ Para estilizar, usar HTML, porque o markup é limitado (## Texto a bold por exem
 
 <h1 align="center">Hugo Projects 👋</h1>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25xbGhubjJ0bTg3aXNydjk2YnhhcWVjcGZwdWxvMWp2NmJhd2J5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="250">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25xbGhubjJ0bTg3aXNydjk2YnhhcWVjcGZwdWxvMWp2NmJhd2J5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200">
 </p>
-
-<h2 align="center">Programming Languages I use 🚀</h2>
+<p align="center">
+Hello, my name is Hugo. I graduated with a Bachelor's Degree in Computer Science, and I am starting my journey in the Web Development sector. 🌐
+<br>
+I strive to learn something new every day, step by step, to improve my skills. 🚀
+<br><br>
+So far, I have learned the following technologies:
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  -->
 </p>
-
+<br>
 <h2 align="center">My Github Projects Stats 📊</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoProjects&layout=compact">
