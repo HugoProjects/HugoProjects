@@ -12,13 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Para Gifs, ![GIF legal](https://media1.giphy.com/exemplo-de-gif)
 Para badges personalizadas, use Shields.io.
-Para estatísticas personalizadas, use GitHub Readme Stats.
+Para estatísticas personalizadas, use GitHub Readme Stats. Por exemplo: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoProjects&layout=compact)
+Para estilizar, usar HTML, porque o markup é limitado (## Texto a bold por exemplo)
 -->
 
 ## Hugo Projects 👋
-
-![GIF legal](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25xbGhubjJ0bTg3aXNydjk2YnhhcWVjcGZwdWxvMWp2NmJhd2J5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif)
+<h1 align="center">Hugo Projects 👋</h1>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25xbGhubjJ0bTg3aXNydjk2YnhhcWVjcGZwdWxvMWp2NmJhd2J5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="400">
+</p>
 
 ## Programming Languages I use
 
@@ -31,3 +35,5 @@ Para estatísticas personalizadas, use GitHub Readme Stats.
 ## My Github Projects Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoProjects&layout=compact)
+
+<p align="center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoProjects&layout=compact)</p>
