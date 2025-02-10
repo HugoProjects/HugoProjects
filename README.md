@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **HugoProjects/HugoProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+![GIF legal](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25xbGhubjJ0bTg3aXNydjk2YnhhcWVjcGZwdWxvMWp2NmJhd2J5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoProjects&layout=compact)
