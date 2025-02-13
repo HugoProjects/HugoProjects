@@ -50,5 +50,5 @@ So far, I have learned the following technologies:
 <br>
 <h2 align="center">My Github Projects Stats 📊</h2>
 <p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoProjects&layout=compact">
 </p>
